@@ -34,26 +34,6 @@ The objective of this project was to develop a data-driven framework capable of:
 
 ---
 
-## Dashboard Preview
-
-### Main Dashboard
-
-![Dashboard](screenshots/dashboard-overview.png)
-
-### Actual vs Predicted Analysis
-
-![Actual vs Predicted](screenshots/actual-vs-predicted.png)
-
-### Machine Health Monitoring
-
-![Machine Health](screenshots/machine-health-dashboard.png)
-
-### Shift-wise Efficiency Analysis
-
-![Shift Analysis](screenshots/shift-wise-efficiency.png)
-
----
-
 ## Machine Learning Workflow
 
 1. Historical exhauster operational data was collected and preprocessed.
@@ -90,20 +70,6 @@ The objective of this project was to develop a data-driven framework capable of:
 
 ---
 
-## Project Structure
-
-```text
-.
-├── dashboard.py
-├── anomaly.py
-├── health_score.py
-├── main.py
-├── screenshots/
-└── .streamlit/
-```
-
----
-
 ## Running the Project
 
 Install dependencies:
@@ -123,11 +89,8 @@ streamlit run dashboard.py
 ## Internship Details
 
 **Organization:** SAIL Bokaro Steel Plant
-**Department:** Communication & Information Technology (C&IT)
+**Department:** Computer & Information Technology (C&IT)
 **Duration:** 11 May 2026 – 6 June 2026
 
 ---
 
-## Note
-
-The original industrial dataset used during the internship has not been included in this repository due to organizational data confidentiality requirements. The repository contains the complete application logic, dashboard implementation, and machine learning workflow.
